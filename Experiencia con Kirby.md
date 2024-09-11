@@ -1,10 +1,10 @@
 ### Reflexión
 
 > Gabriela Germán Toledo
-content
+- content
 
 > Raffaella Comes Lebrón
-content
+- content
 
 > Gabriel J. Román Cabrera
-content
+- content
