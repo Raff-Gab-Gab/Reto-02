@@ -9,6 +9,8 @@
 > Gabriel J. Román Cabrera
 - content
 
+---
+
 ### Experiencia con Kirby
 
 > Raffaella Comes Lebrón
