@@ -41,9 +41,19 @@ El mismo proceso fue llevado a cabo para colocar los pies de Kirby. Se utilizó 
 
 ### Estrella del Kirby
 
-La estrella de Kirby fue creada con esferas. Al igual que en procesos anteriores, se redujo su ancho y se estiró a lo largo para generar un óvalo bastante grande. Luego de realizar uno, se hicieron copias y se acomodaron alrededor para que se pareciera una estrella. Para unir los cinco lados, se creó una círculo en el medio, en base a una esfera, y todo se añadió debajo de ésta, como una jerarquía para que se pueda mover todo el objeto a la vez. 
+La estrella de Kirby fue creada con esferas. Al igual que en procesos anteriores, se redujo su ancho y se estiró a lo largo para generar un óvalo o elipse bastante grande. Luego de realizar uno, se hicieron copias y se acomodaron alrededor para que se pareciera una estrella. Para unir los cinco lados, se creó una círculo en el medio, en base a una esfera, y todo se añadió debajo de ésta, como una jerarquía para que se pueda mover todo el objeto a la vez. 
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/6170f9fb-c509-4dfc-91be-2b243aeab434" height="300" width="600" />
    <img src="https://github.com/user-attachments/assets/d20becf4-9c71-46e3-8824-16142213bedb" height="300" width="600" />
+</p>
+
+## Resultado final
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/3668dc81-ecf2-400e-9629-b86fb33670f0" height="300" width="600" />
+   <img src="https://github.com/user-attachments/assets/f779b18c-5597-424a-a096-ff9259b1e72f" height="250" width="400" />
+   <img src="https://github.com/user-attachments/assets/3f31503a-ee02-450c-bfe0-51b401210e42" height="250" width="400" />
+   <img src="https://github.com/user-attachments/assets/19434411-c116-4228-b09d-bd9fb9d5fd0a" height="250" width="400" />
+   <img src="https://github.com/user-attachments/assets/03666223-bb83-4b3e-bea0-7c697b714956" height="250" width="400" />
 </p>
