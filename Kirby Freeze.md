@@ -17,6 +17,7 @@ El abrigo de Kirby posee unas esferas alrededor de toda la capucha. Para crear e
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/686c281e-0722-4451-a1f0-657d730df8c1" height="300" width="600" />
+   <img src="https://github.com/user-attachments/assets/2cb568f2-b564-4edb-80f5-fd9fb92b4500" height="300" width="600" />
    
 Al crear la esfera más abajo, se hace una copia y se altera su posición en Z en el inspector para moverla horizontalmente al otro lado de la cara de Kirby. Esto se puede hacer ya que la variante se encuentra en el origen. Luego, se crea una copia de la esfera recién colocada y se mueve un poco más abajo. Al ajustarla en la capucha, se crea una copia y se cambia su valor en Z para que se posicione al otro lado. Esto continúa hasta culminar con un círculo hecho de esferas. 
 
@@ -41,7 +42,7 @@ El mismo proceso fue llevado a cabo para colocar los pies de Kirby. Se utilizó 
 
 ### Estrella del Kirby
 
-La estrella de Kirby fue creada con esferas. Al igual que en procesos anteriores, se redujo su ancho y se estiró a lo largo para generar un óvalo o elipse bastante grande. Luego de realizar uno, se hicieron copias y se acomodaron alrededor para que se pareciera una estrella. Para unir los cinco lados, se creó una círculo en el medio, en base a una esfera, y todo se añadió debajo de ésta, como una jerarquía para que se pueda mover todo el objeto a la vez. 
+La estrella de Kirby fue creada con esferas. Al igual que en procesos anteriores, se redujo su ancho y se estiró a lo largo para generar un óvalo o elipse bastante grande. Luego de realizar uno, se hicieron copias y se acomodaron alrededor para que pareciera una estrella. Para unir los cinco lados, se creó una círculo en el medio, en base a una esfera, y todo se añadió debajo de ésta, como una jerarquía para que se pueda mover todo el objeto a la vez. 
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/6170f9fb-c509-4dfc-91be-2b243aeab434" height="300" width="600" />
