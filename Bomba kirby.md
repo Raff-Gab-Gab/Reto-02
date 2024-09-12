@@ -2,13 +2,13 @@
 
 Para crear el sombrero de Kirby, tuve que aceptar que no terminaría con una forma de cono exacta como el sombrero original que aparece en la wiki proporcionada. Esta parte fue la que más tiempo me tomó en hacer, intentando distintas formas y distintos objetos para tratar de llegar a esa forma ideal. Traté de usar cubos para crear una pseudo pirámide, pero al final terminé usando un cilindro de base. 
 
-
-
-le puse una cápsula que simularía el tope de un cono, ya que era la figura más cercana a lo que yo deseaba tener. Al final, lo que faltaba era poner todo junto y agregar un cubo estirado como plancha para simular la bandana que Kirby tiene en la forma original.
-
 ![image](https://github.com/user-attachments/assets/d10bb939-cc77-41e4-b7af-d0c4f2f56456)
 
-![image](https://github.com/user-attachments/assets/03443d2d-98be-4202-b0d6-a7fe92004a86)
+
+Le puse una cápsula que simularía el tope de un cono, ya que era la figura más cercana a lo que yo deseaba tener. Al final, lo que faltaba era poner todo junto y agregar un cubo estirado como plancha para simular la bandana que Kirby tiene en la forma original.
+
+
+<img width="349" alt="Screenshot 2024-09-12 at 11 24 26 AM" src="https://github.com/user-attachments/assets/7c44655f-1ec5-45ec-9287-8a4686e5949b">
 
 
 
@@ -24,7 +24,8 @@ Le agregué un cilindro ancho que iría dentro de la esfera, pero que sobresalie
 
 Para culminar esta parte, creé un cilindro finito y largo que puse dentro de la bomba y moví de distintas maneras hasta tener el tamaño ideal para simular la soga.
 
-<img width="1118" alt="Screenshot 2024-09-12 at 12 14 12 PM" src="https://github.com/user-attachments/assets/6f493961-2a16-4770-8dc4-09dcbd0d9d33">
+![image](https://github.com/user-attachments/assets/bdb82902-de0d-45db-928e-4351726e5cb7)
+
 
 
 # Producto final
