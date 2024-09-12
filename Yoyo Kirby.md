@@ -1,5 +1,9 @@
 # Yoyo Kirby
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d69f3136-eae0-45ce-9594-11f1a00cb05a" height="300" width="500" />
+</p>
+
 Para trabajar el Yoyo Kirby, se creó una variante del "prefab" del modelo de Kirby. La esfera, el Kirby, se colocó en la posición 0 en los tres ejes para simplificar el proceso de añadirle los detalles. Luego de centralizarlo, se creó una cápsula para formar la gorra. La cápsula se colocó en el origen, se achicó verticalmente, se manipuló el eje de Y, y se subió para acomodarla sobre la cabeza del Kirby. Además, se estiró horizontalmente para que no se vea muy pequeña en el personaje.
 
 <p align="center">
