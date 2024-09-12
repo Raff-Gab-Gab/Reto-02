@@ -13,12 +13,12 @@ Se disminuyó el tamaño de un cubo hasta convertirlo en un rectángulo pequeño
    <img src="https://github.com/user-attachments/assets/24c7414e-30aa-4450-80da-21619a4b977a" height="300" width="500" />
 </p>
 
-Para la boca del Kirby se utilizó una cápsula y se llevó a cabo el proceso de disminuir el tamaño y su aspecto de profunidad para que parezca una figura bidimensional. Por otro lado, para crear un rostro molesto, se tomaron dos cubos y se redujo su altura, su valor en Y, para crear rectángulos que serían las cejas. Se disminuyó el tamaño del ya rectángulo y se rotó para que quedase encima del ojo de Kirby. Luego de acomodar la primera ceja, se realizó un "copy and paste" para la segunda. Se le añadió un signo negativo al valor de Z de la posición del segundo rectángulo para acomodarlo a la misma distancia respecto al centro (0,0). Lo mismo se hizo con los valores de rotación de X y Y para que fuese un espejo de la otra ceja. 
+Para la boca del Kirby se utilizó una cápsula y se llevó a cabo el proceso de disminuir el tamaño y el ancho para que parezca una figura bidimensional. Por otro lado, para crear un rostro molesto, se tomaron dos cubos y se redujo su altura, su valor en Y, para crear rectángulos que serían las cejas. Se disminuyó el tamaño del rectángulo y se rotó para que quedase encima del ojo de Kirby. Luego de acomodar la primera ceja, se realizó un "copy and paste" para la segunda. Se le añadió un signo negativo al valor de Z de la posición del segundo rectángulo para acomodarlo a la misma distancia respecto al centro (0,0). Lo mismo se hizo con los valores de rotación de X y Y para que fuese un espejo de la otra ceja. 
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/7057265f-c832-4351-8cee-720b73c06c0b" height="250" width="400" />
    <img src="https://github.com/user-attachments/assets/9ae2c314-31e4-4ead-ae12-fd764a347599" height="250" width="400" />
 </p>
 
-
+Yoyo Kirby tiene una curita en su rostro, la cual se hizo al reducir el grosor de una cápsula y achicando su tamaño. La figura se rotó para que se viese pegada a la cara y no esté flotando. También, se le añadió un cubo aplastado para formar un rectángulo y colocarlo encima de la curita como un detalle. Luego de esto, se crearon esferas para los brazos y pies de Kirby. La esfera se estiró en Y y se contrajo en X para formar una figura parecida a un óvalo. 
 
