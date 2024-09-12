@@ -17,7 +17,33 @@ El abrigo de Kirby posee unas esferas alrededor de toda la capucha. Para crear e
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/686c281e-0722-4451-a1f0-657d730df8c1" height="300" width="600" />
-   <img src="https://github.com/user-attachments/assets/1f412063-9020-48f4-8916-18cc3541427c" height="300" width="600" />
+   
+Al crear la esfera más abajo, se hace una copia y se altera su posición en Z en el inspector para moverla horizontalmente al otro lado de la cara de Kirby. Esto se puede hacer ya que la variante se encuentra en el origen. Luego, se crea una copia de la esfera recién colocada y se mueve un poco más abajo. Al ajustarla en la capucha, se crea una copia y se cambia su valor en Z para que se posicione al otro lado. Esto continúa hasta culminar con un círculo hecho de esferas. 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/2b5fba8d-2a64-4c89-8503-714421331ec7" height="300" width="600" />
+   <img src="https://github.com/user-attachments/assets/3e534257-f946-498d-b312-b330fb6cc2c5" height="300" width="600" />
 </p>
 
-El Kirby 
+### Brazos y pies
+
+Los brazos de Kirby se hicieron con una esfera. Esta última, se manipuló hasta tener una figura parecida a un óvalo no tan ancho. El brazo derecho de Kirby se rotó para que pareciera que Kirby tiene su brazo puesto sobre la estrella que se desarrolló al final. Para el brazo izquierdo, se tomó una copia y se cambió manualmente la posición de la figura al arrastrarla hacia el otro lado y cambiando su ángulo, hasta que se encontró una posición que muestra que el brazo sale del cuerpo de Kirby. 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/0ad71003-4f26-4c02-953c-cd014348cf21" height="300" width="600" />
+</p>
+
+El mismo proceso fue llevado a cabo para colocar los pies de Kirby. Se utilizó una esfera, la cual se dejó con un tamaño más grande y se manipuló su escala para formar, aproximadamente, un óvalo. Luego, se cambió su rotación y posición para que pareciera como si estuviese extendido desde el cuerpo de Kirby. Se creó una copia de ella y se cambió su rotación para conformar el otro pie. 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/a52882c6-d73a-4efe-9a51-d3b16539323a" height="300" width="600" />
+</p>
+
+### Estrella del Kirby
+
+La estrella de Kirby fue creada con esferas. Al igual que en procesos anteriores, se redujo su ancho y se estiró a lo largo para generar un óvalo bastante grande. Luego de realizar uno, se hicieron copias y se acomodaron alrededor para que se pareciera una estrella. Para unir los cinco lados, se creó una círculo en el medio, en base a una esfera, y todo se añadió debajo de ésta, como una jerarquía para que se pueda mover todo el objeto a la vez. 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/6170f9fb-c509-4dfc-91be-2b243aeab434" height="300" width="600" />
+   <img src="https://github.com/user-attachments/assets/d20becf4-9c71-46e3-8824-16142213bedb" height="300" width="600" />
+</p>
