@@ -22,7 +22,7 @@ Una vez hecho, llegó el momento de dibujar el terreno en Unity.
 
 Creé el objeto del terreno, ajusté sus valores para que sus dimensiones fueran 250x250x250 con una resolución de 257x257 y utilicé la herramienta de `Set Height` para subirlo al valor de 50, para permitirme de cavar huecos al terreno.
 
-### Entonces conseguí colocar la imagen de referencia al lado de la ventana de Unity y empezé a pintar con la brocha.
+<!-- Entonces conseguí colocar la imagen de referencia al lado de la ventana de Unity y empezé a pintar con la brocha. -->
 
 Primero cavé los valles y el hueco del plato.
 
