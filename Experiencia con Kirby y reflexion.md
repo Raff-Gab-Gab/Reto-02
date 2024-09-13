@@ -18,7 +18,7 @@ Aunque nunca me he considerado un fanático de los juegos de Kirby, al tratar de
 - content
 
 > Gabriela Germán Toledo
-- content
+- Este reto, además de ser muy divertido por el hecho de estar trabajando con un personaje de videojuegos muy conocido y encantador, fue instructivo y gratificante. Esta vez, me sentí más cómoda trabajando en "Unity" ya que al experimentar con el tamaño y rotación de las figuras, pude ver y entender cómo éstas son tan versátiles en el sentido de que pueden servir para crear múltiples objetos al usarlas en conjunto y modificarlas. Esto me ayudó a fomentar la creatividad al trabajar con ciertos objetos y características del personaje. Un ejemplo sería el hilo del yoyo y como con aplanar y reducir el tamaño de cilindros se puede lograr una figura semejante. Fue bien satisfactorio el tener una idea para desarrollar un objeto y llevarla a cabo. El reto fue entretenido para trabajar y ver el resultado de los Kirby fue muy agradable. 
 
 > Gabriel J. Román Cabrera
 - content
